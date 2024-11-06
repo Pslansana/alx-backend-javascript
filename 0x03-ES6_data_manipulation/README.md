@@ -1,6 +1,6 @@
 # 0x03. ES6 Data Manipulation
 
-![Array in JavaScript Meme](https://camo.githubusercontent.com/900f96d398d9224e56c391e1bfd75a2716796d511bad0e50a8db78534ae74bcf/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e3553555456484f4a49566f6476532d70347964593541486145633f72733d31267069643d496d674465744d61696e)
+![Array in JavaScript Meme](https://images.ctfassets.net/pzhspng2mvip/7jcF7XfduV9XgOImKsxXRk/f7a3712b11485e2aadb1d1bfa5fe3fe9/arrays-everywhere.jpg)
 
 ## Overview
 
