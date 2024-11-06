@@ -1,0 +1,16 @@
+{
+  "name": "0x01-ES6_promise",
+  "version": "1.0.0",
+  "description": "![JavaScript Promises](https://shinesolutions.com/wp-content/uploads/2015/07/babel_meme.jpg?w=300)",
+  "main": "0-main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.14.0",
+    "jest": "^29.7.0"
+  }
+}
