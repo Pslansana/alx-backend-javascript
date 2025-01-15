@@ -2,7 +2,6 @@
 
 ![Node.js Basics](https://blogs.rakeshkamble.com/wp-content/uploads/2023/03/Nodejs-basics.jpg)
 
-![Node.js Fundamentals](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/82692897e15d9f03256f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250115T172350Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=afa54b136ad39cfd66f6e7b6ec7e605c5be1dae8416674f853b107c9e3fe80ae)
 
 This project introduces the fundamentals of **Node.js** and **Express.js** for backend development. You'll learn how to build and manage a simple HTTP server, use various Node.js modules, handle asynchronous operations, and create advanced routes with Express.
 
